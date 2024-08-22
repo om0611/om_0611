@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at the University of Toronto with a strong proficiency in Python and a deep interest in Artificial Intelligence. Currently, I am expanding my skill set by self-learning web development through the Odin Project.
+I am a Computer Science student at the University of Toronto with a strong proficiency in Python and a deep interest in Artificial Intelligence. I am currently expanding my skill set by learning web development through the Odin Project and learning machine learning through the Machine Learning Specialization course by Andrew Ng.
 
 
 ## 🌐 Socials:
